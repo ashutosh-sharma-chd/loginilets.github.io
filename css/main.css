@@ -211,7 +211,7 @@ Primary use:
 [ L-Text >= 26 ]*/
 .l1-txt1 {
   font-family: PlayfairDisplay-BlackItalic;
-  font-size: 90px;
+  font-size: 60px;
   color: #333;
   line-height: 1.1;
 }
@@ -312,7 +312,7 @@ Primary use:
 }
 
 .wrappic1 img {
-  max-width: 100%;
+  max-width: 20%;
 }
 
 /*---------------------------------------------*/
